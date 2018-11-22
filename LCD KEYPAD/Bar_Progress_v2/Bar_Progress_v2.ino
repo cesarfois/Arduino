@@ -1,7 +1,7 @@
 /*
  * NAME: BAR PROGRESS VERSION II
  * SHIELD USED : LCD KEYPAD 16x2
- * Credits CREATION: JO3RI : https://www.carnetdumaker.net/
+ * Credits CREATION: https://www.carnetdumaker.net/
  *
  * MODIFIED AND SHARED:  César J. Fois https://cesarfois.github.io/
  * Versão: 20 11 2018
